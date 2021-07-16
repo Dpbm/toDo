@@ -16,4 +16,12 @@
 
 ![Screenshot](./assets/remove.png)
 
+## Running
+
+```
+  yarn start --> with production pages
+    or
+  yarn dev   --> with development pages
+```
+
 ### Made with 🧡 and 🧠 by [Dpbm](https://github.com/Dpbm)
