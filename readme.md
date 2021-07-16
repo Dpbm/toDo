@@ -2,7 +2,7 @@
 
 ![Screenshot](./assets/clean.png)
 
-## This Have the same idea of orders to do lists apps, but this have dracula [theme](https://draculatheme.com/) by default :)
+## This Have the same idea of orders to do lists apps, but this have [dracula theme](https://draculatheme.com/) by default :)
 
 ### Add to do
 
@@ -15,3 +15,5 @@
 ### Delete to do
 
 ![Screenshot](./assets/remove.png)
+
+### Made with 🧡 and 🧠 by [Dpbm](https://github.com/Dpbm)
