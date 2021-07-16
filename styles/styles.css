@@ -1,0 +1,77 @@
+body {
+	background-color: #282a36;
+}
+
+#input-container {
+	margin-top: 70px;
+	display: grid;
+	place-items: center;
+}
+
+input {
+	padding: 5px 20px;
+	height: 37px;
+	font-family: Source Sans Pro;
+	font-size: 20px;
+	background: #282a36;
+	color: #fff;
+	border: 1px solid #bd93f9;
+	border-radius: 4px;
+	width: 100%;
+	outline: none;
+	width: 437px;
+	-webkit-appearance: textfield;
+}
+
+button {
+	margin-top: 10px;
+	padding: 5px 20px;
+	height: 37px;
+	font-family: Source Sans Pro;
+	font-size: 20px;
+	background: #282a36;
+	color: #fff;
+	border: 1px solid #c9a2ff;
+	border-radius: 4px;
+	width: 100%;
+	outline: none;
+	width: 90px;
+	-webkit-appearance: textfield;
+}
+
+li {
+	color: #f8f8f2;
+	font-size: 35px;
+}
+
+button:hover,
+.uncheck-button:hover,
+.check-button:hover,
+.trash-button:hover {
+	opacity: 0.4;
+}
+
+#modify-todos-container {
+	margin-left: 20px;
+}
+
+.checked {
+	color: #ff5555;
+	text-decoration: line-through;
+	opacity: 0.8;
+}
+
+.uncheck-button {
+	color: #ff5555;
+	transform: translate(0px, 3px);
+}
+
+.check-button {
+	color: #50fa7b;
+	transform: translate(0px, 3px);
+}
+
+.trash-button {
+	color: #ffb86c;
+	transform: translate(0px, 3px);
+}
